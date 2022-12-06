@@ -1,0 +1,99 @@
+ 
+ .container2 {
+    margin-left: 250px;
+    margin-top: 100px; 
+   
+     
+ }
+ 
+ 
+ 
+ /* Liste des réservation */ 
+ 
+ .Nom1{
+    margin-bottom: 15px;
+    
+ }
+ 
+ .Nom1 input{
+    border-color:  #e58e26;
+    background-color: rgba(27, 70, 4, 0);
+    border-width: 3px;
+    color: #e58e26;
+    padding: 8px;
+    font-family: 'Jost', sans-serif;
+    padding-right: 20px;
+    
+ }
+ 
+ .Localisation{
+    margin-bottom: 15px;
+    
+ }
+ 
+ .Localisation input{
+    border-color:  #e58e26;
+    background-color: rgba(27, 70, 4, 0);
+    border-width: 3px;
+    color: #e58e26;
+    padding: 8px;
+    font-family: 'Jost', sans-serif;
+    padding-right: 20px;
+ }
+ 
+ .Description1{
+    margin-bottom: 15px;
+ }
+ 
+ .Description1 textarea{
+    border-color:  #e58e26;
+    background-color: rgba(27, 70, 4, 0);
+    border-width: 3px;
+    color: #e58e26;
+    padding: 8px;
+    font-family: 'Jost', sans-serif;
+    padding-right: 32px;
+ }
+ 
+ .Image1{
+    margin-bottom: 15px;
+ }
+ 
+ .Image1 input{
+    border-color:  #e58e26;
+    background-color: rgba(27, 70, 4, 0);
+    border-width: 3px;
+    color: #e58e26;
+    padding: 8px;
+    font-family: 'Jost', sans-serif;
+    padding-right: 20px;
+ }
+ 
+ .btn-Enregister{
+    margin-top:10px;
+    margin-left: 40px;
+    height: 35px;
+    width: 120px;
+    background-color: #fb9906;
+    color: rgb(255, 255, 255);
+    font-family: 'Jost', sans-serif;
+    font-size: 15px;
+    font-weight: bold; 
+    border-radius: 20px;
+    
+ }
+ 
+ 
+ 
+ .btn-supprimer{
+    margin-top:10px;
+    margin-left: 40px;
+    height: 35px;
+    width: 120px;
+    background-color: #d82020;
+    color: rgb(255, 255, 255);
+    font-family: 'Jost', sans-serif;
+    font-size: 15px;
+    font-weight: bold; 
+    border-radius: 20px;
+ }
